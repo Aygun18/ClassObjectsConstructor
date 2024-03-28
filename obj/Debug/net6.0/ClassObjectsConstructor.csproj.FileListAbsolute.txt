@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\bin\Debug\net6.0\ClassObjectsConstructor.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\bin\Debug\net6.0\ClassObjectsConstructor.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\bin\Debug\net6.0\ClassObjectsConstructor.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\bin\Debug\net6.0\ClassObjectsConstructor.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\bin\Debug\net6.0\ClassObjectsConstructor.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ClassObjectsConstructor.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ClassObjectsConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ClassObjectsConstructor.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ClassObjectsConstructor.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ClassObjectsConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ClassObjectsConstructor.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\refint\ClassObjectsConstructor.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ClassObjectsConstructor.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ClassObjectsConstructor.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Tack\ClassObjectsConstructor\obj\Debug\net6.0\ref\ClassObjectsConstructor.dll
