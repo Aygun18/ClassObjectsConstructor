@@ -18,14 +18,7 @@ namespace ClassObjectsConstructor
 			Surname = surname;
 			Age = age;
 		}
-		//public void CheckUser()
-		//{
-		//	if(Age>=18)
-		//	{
-		//		IsAdult = true;
-		//	}
-		//	IsAdult=false;
-		//}
+		
 
 	}
 }
